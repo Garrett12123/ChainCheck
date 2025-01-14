@@ -72,7 +72,6 @@ MIT License - See [LICENSE](LICENSE) for details.
 ## Author
 
 Garrett Flowers  
-Systems Engineer, Office of Information Technology at Auburn University
 
 ## Contributing
 
