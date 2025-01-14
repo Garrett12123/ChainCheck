@@ -1,0 +1,6 @@
+pyOpenSSL
+asn1crypto
+certvalidator
+tabulate
+prompt_toolkit
+tqdm
