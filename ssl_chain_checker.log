@@ -1,0 +1,9 @@
+2025-01-15 00:08:04,987 - INFO - SSL Chain Checker Initialized.
+2025-01-15 00:09:32,845 - INFO - SSL Chain Checker Initialized.
+2025-01-15 00:11:41,735 - INFO - SSL Chain Checker Initialized.
+2025-01-15 00:12:19,108 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='crt.sh', port=443): Read timed out. (read timeout=30)")': /?q=auburn.edu&output=json
+2025-01-15 00:13:24,008 - INFO - SSL Chain Checker Initialized.
+2025-01-15 00:15:07,917 - INFO - SSL Chain Checker Initialized.
+2025-01-15 00:16:31,348 - INFO - SSL Chain Checker Initialized.
+2025-01-15 00:18:02,245 - INFO - SSL Chain Checker Initialized.
+2025-01-15 00:18:46,019 - INFO - SSL Chain Checker Initialized.
